@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1667787554 source:c:\users\marina\desktop\proyectos c\parcialprg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreria.h"
+	<windows.h>
+
+1667819105 c:\users\marina\desktop\proyectos c\parcialprg\libreria.h
+	<stdio.h>
+	<stdlib.h>
+

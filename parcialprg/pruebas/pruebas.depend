@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667781483 source:c:\users\marina\desktop\proyectos c\parcialprg\pruebas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria_pruebas.h"
+
+1667780502 c:\users\marina\desktop\proyectos c\parcialprg\pruebas\libreria_pruebas.h
+	<stdio.h>
+	<stdlib.h>
+
